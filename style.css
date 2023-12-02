@@ -14,3 +14,11 @@ section {
 footer {
     background-color: #146c43;
 }
+
+.gallery-img {
+    width: 100%;
+}
+
+#gallery .row>* {
+    padding: 0;
+}
